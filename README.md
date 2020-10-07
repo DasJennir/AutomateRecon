@@ -1,5 +1,9 @@
 # AutomateRecon
 
+**NOTE: raw.sh is the template for you to customize however you want, theone.sh is just an example of how I have set this up, enjoy !!!**
+---
+
+---
 *Install GO language to facilitate tools instalations*
 
 Instalation Documentation:
