@@ -1,6 +1,12 @@
 # AutomateRecon
 
 *Install GO language to facilitate tools instalations*
+
+Instalation Documentation:
+
+https://golang.org/doc/install
+
+Kali command easy instalation: 
 ```
 sudo apt-get install golang
 ```
